@@ -1,0 +1,14 @@
+C:\Users\ariadne.damasceno\ConsumirApiGitHub\bin\Debug\net8.0\ConsumirApiGitHub.exe
+C:\Users\ariadne.damasceno\ConsumirApiGitHub\bin\Debug\net8.0\ConsumirApiGitHub.deps.json
+C:\Users\ariadne.damasceno\ConsumirApiGitHub\bin\Debug\net8.0\ConsumirApiGitHub.runtimeconfig.json
+C:\Users\ariadne.damasceno\ConsumirApiGitHub\bin\Debug\net8.0\ConsumirApiGitHub.dll
+C:\Users\ariadne.damasceno\ConsumirApiGitHub\bin\Debug\net8.0\ConsumirApiGitHub.pdb
+C:\Users\ariadne.damasceno\ConsumirApiGitHub\obj\Debug\net8.0\ConsumirApiGitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariadne.damasceno\ConsumirApiGitHub\obj\Debug\net8.0\ConsumirApiGitHub.AssemblyInfoInputs.cache
+C:\Users\ariadne.damasceno\ConsumirApiGitHub\obj\Debug\net8.0\ConsumirApiGitHub.AssemblyInfo.cs
+C:\Users\ariadne.damasceno\ConsumirApiGitHub\obj\Debug\net8.0\ConsumirApiGitHub.csproj.CoreCompileInputs.cache
+C:\Users\ariadne.damasceno\ConsumirApiGitHub\obj\Debug\net8.0\ConsumirApiGitHub.dll
+C:\Users\ariadne.damasceno\ConsumirApiGitHub\obj\Debug\net8.0\refint\ConsumirApiGitHub.dll
+C:\Users\ariadne.damasceno\ConsumirApiGitHub\obj\Debug\net8.0\ConsumirApiGitHub.pdb
+C:\Users\ariadne.damasceno\ConsumirApiGitHub\obj\Debug\net8.0\ConsumirApiGitHub.genruntimeconfig.cache
+C:\Users\ariadne.damasceno\ConsumirApiGitHub\obj\Debug\net8.0\ref\ConsumirApiGitHub.dll
